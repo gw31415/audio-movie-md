@@ -5,7 +5,7 @@
 コーデック | ffmpeg での識別子 | ライセンス / 特許 | 備考
 --- | --- | --- | ---
 MPEG-4, H.264 | `h264` <br/> `libx264` | 多数の特許権が含まれる | 事実上の標準.
-H.265 | `heve` | 多数の特許権が含まれる | H.264の後継.
-Theora | `libtheora` | オープン. <br/> ライブラリは修正BSD. | 割と見る.
-Google VP9 | `vp9`<br/>`libvpx` | オープン. <br/> ライブラリは修正BSD. | YouTubeでの形式.
+H.265 | `heve` | 多数の特許権が含まれる | H.264 の後継.
+Theora | `libtheora` | オープン. <br/> ライブラリは修正BSD. | 割と見る. 品質が H.264 に劣る.
+Google VP9 | `vp9`<br/>`libvpx` | オープン. <br/> ライブラリは修正BSD. | YouTube での形式. 品質は H.264 といい勝負.
 AOMedia Video 1 | `libaom` | オープン. <br/> ライブラリは修正BSD. | VP9の後継. 出来は良いがエンコードが超遅い.
