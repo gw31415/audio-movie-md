@@ -20,6 +20,6 @@
 --- | --- | ---
 `.ogg`<br/>`.ogv` | Theora, Dirac | Vorbis, Opus, FLAC, PCM
 `.mov` | H.264 | MP3, AAC, ALAC
-`.mp4` | H.264, H.265, AV1 | AAC, MP3, Opus
+`.mp4` | H.264, H.265, AV1 | AAC, ALAC, MP3, Opus
 `.webm` | VP9, AV1 | Opus, Vorbis
 `.avi` | (いっぱい) | (いっぱい)
